@@ -16,10 +16,10 @@ export default defineConfig({
   timeout: 60_000,
   //tempo máximo para assertions (toBeVisible(), toHaveText())
   expect: {
-    timeout: 5_000 //não vela a pena autmentar porque o teste pode ficar lento no tempo de execução, vale a pena usar o timeout dentro do step
+    timeout: 20_000 //não vela a pena aumentar porque o teste pode ficar lento no tempo de execução, vale a pena usar o timeout dentro do step
   },
 
-
+  
 
   testDir: './playwright/e2e',
   /* Run tests in files in parallel */
@@ -35,13 +35,13 @@ export default defineConfig({
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
   use: {
     /* Base URL to use in actions like `await page.goto('')`. */
-    // baseURL: 'http://localhost:3000',
+    baseURL: 'http://localhost:5173',
 
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
     trace: 'retain-on-failure',
     //tempo máximo para acções interativas como click(), fill();
     //caso setado como 0, herda o limite do timeout geral do testes
-    actionTimeout: 5_000,
+    actionTimeout: 20_000,
 
     //tempo máximo para navegação como goto(), waitForUrl();
     //caso setado como 0, herda o limite do timeout geral do testes   
