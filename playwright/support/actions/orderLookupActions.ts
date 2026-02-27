@@ -15,6 +15,10 @@ export type OrderDetails = {
 }
 
 export function createOrderLookupActions(page: Page) {
+
+  const orderInput = page.getByRole("textbox", { name: "Número do Pedido" })
+  const searchButton = page.getByRole("button", { name: "Buscar Pedido" })
+
   const statusClasses: Record<
     OrderStatus,
     { background: string; text: string; icon: string }
@@ -46,6 +50,12 @@ export function createOrderLookupActions(page: Page) {
   }
 
   return {
+
+    elements: {
+      orderInput,
+      searchButton
+    },
+
     async open() {
       await page.goto("/")
       const title = page.getByTestId("hero-section").getByRole("heading")
@@ -56,8 +66,8 @@ export function createOrderLookupActions(page: Page) {
     },
 
     async searchOrder(code: string) {
-      await page.getByRole("textbox", { name: "Número do Pedido" }).fill(code)
-      await page.getByRole("button", { name: "Buscar Pedido" }).click()
+      await orderInput.fill(code)
+      await searchButton.click()
     },
 
     async validateStatusBadge(status: OrderStatus) {
