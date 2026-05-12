@@ -110,6 +110,7 @@ export function ConfigPanel() {
               className="flex items-start gap-4 p-4 rounded-lg border border-border hover:border-primary/50 transition-colors cursor-pointer"
             >
               <Checkbox
+                aria-label={opt.label}
                 data-testid={opt.testId}
                 checked={(configuration.optionals || []).includes(opt.id)}
                 onCheckedChange={() => toggleOptional(opt.id)}
