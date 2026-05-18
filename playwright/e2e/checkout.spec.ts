@@ -124,19 +124,19 @@ test.describe('Checkout', () => {
   })
 
   test.describe('Pagamento e Confirmação', () => {
+    const customer = {
+      name: 'João',
+      lastName: 'Silva',
+      email: 'joao.silva@email.com',
+      phone: '(11)9999-9999',
+      document: '441.458.180-08',
+    }
 
     test.beforeEach(async () => {
-      await deleteOrderByDocument('441.458.180-08')
+      await deleteOrderByDocument(customer.document)
     })
 
     test('deve criar um pedido com sucesso para pagamento à vista', async ({ page, app }) => {
-      const customer = {
-        name: 'João',
-        lastName: 'Silva',
-        email: 'joao.silva@email.com',
-        phone: '(11)9999-9999',
-        document: '441.458.180-08',
-      }
       const storeName = 'Velô Paulista'
 
       // Arrange
