@@ -1,4 +1,5 @@
 import { expect, test } from '../support/fixtures'
+import { deleteOrderByDocument } from '../support/database/orderRepository'
 
 test.describe('Checkout', () => {
 
@@ -123,6 +124,10 @@ test.describe('Checkout', () => {
   })
 
   test.describe('Pagamento e Confirmação', () => {
+
+    test.beforeEach(async () => {
+      await deleteOrderByDocument('441.458.180-08')
+    })
 
     test('deve criar um pedido com sucesso para pagamento à vista', async ({ page, app }) => {
       const customer = {

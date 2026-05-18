@@ -40,7 +40,7 @@ export function createCheckoutActions(page: Page) {
       await page.getByTestId('checkout-surname').fill(data.lastName)
       await page.getByTestId('checkout-email').fill(data.email)
       await page.getByTestId('checkout-phone').fill(data.phone)
-      await page.getByTestId('checkout-cpf').fill(data.document)
+      await page.getByTestId('checkout-document').fill(data.document)
     },
 
     async selectStore(storeName: string) {
