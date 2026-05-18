@@ -38,8 +38,8 @@ export default defineConfig({
   reporter: 'html',
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
   use: {
-    /* Base URL: PLAYWRIGHT_BASE_URL ou porta pedida no QA (ex.: 2173). */
-    baseURL: process.env.PLAYWRIGHT_BASE_URL ?? 'http://localhost:2173',
+    /* Base URL: PLAYWRIGHT_BASE_URL ou porta pedida no QA (ex.: 5173). */
+    baseURL: process.env.PLAYWRIGHT_BASE_URL ?? 'http://localhost:5173',
 
     /* Chrome headed localmente (prompt QA); CI permanece headless. */
     headless: !!process.env.CI,
