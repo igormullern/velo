@@ -12,6 +12,116 @@
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@babel/runtime/-/runtime-7.28.6.tgz"
   integrity sha512-05WQkdpL9COIMz4LjTxGpPNCdlpyimKppYNoJ5Di5EUObifl8t4tuLuUBBZEpoLYOmfvIWrsp9fCl0HoPRVTdA==
 
+"@esbuild/aix-ppc64@0.21.5":
+  version "0.21.5"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@esbuild/aix-ppc64/-/aix-ppc64-0.21.5.tgz#c7184a326533fcdf1b8ee0733e21c713b975575f"
+  integrity sha512-1SDgH6ZSPTlggy1yI6+Dbkiz8xzpHJEVAlF/AM1tHPLsf5STom9rwtjE4hKAF20FfXXNTFqEYXyJNWh1GiZedQ==
+
+"@esbuild/android-arm64@0.21.5":
+  version "0.21.5"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@esbuild/android-arm64/-/android-arm64-0.21.5.tgz#09d9b4357780da9ea3a7dfb833a1f1ff439b4052"
+  integrity sha512-c0uX9VAUBQ7dTDCjq+wdyGLowMdtR/GoC2U5IYk/7D1H1JYC0qseD7+11iMP2mRLN9RcCMRcjC4YMclCzGwS/A==
+
+"@esbuild/android-arm@0.21.5":
+  version "0.21.5"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@esbuild/android-arm/-/android-arm-0.21.5.tgz#9b04384fb771926dfa6d7ad04324ecb2ab9b2e28"
+  integrity sha512-vCPvzSjpPHEi1siZdlvAlsPxXl7WbOVUBBAowWug4rJHb68Ox8KualB+1ocNvT5fjv6wpkX6o/iEpbDrf68zcg==
+
+"@esbuild/android-x64@0.21.5":
+  version "0.21.5"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@esbuild/android-x64/-/android-x64-0.21.5.tgz#29918ec2db754cedcb6c1b04de8cd6547af6461e"
+  integrity sha512-D7aPRUUNHRBwHxzxRvp856rjUHRFW1SdQATKXH2hqA0kAZb1hKmi02OpYRacl0TxIGz/ZmXWlbZgjwWYaCakTA==
+
+"@esbuild/darwin-arm64@0.21.5":
+  version "0.21.5"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@esbuild/darwin-arm64/-/darwin-arm64-0.21.5.tgz#e495b539660e51690f3928af50a76fb0a6ccff2a"
+  integrity sha512-DwqXqZyuk5AiWWf3UfLiRDJ5EDd49zg6O9wclZ7kUMv2WRFr4HKjXp/5t8JZ11QbQfUS6/cRCKGwYhtNAY88kQ==
+
+"@esbuild/darwin-x64@0.21.5":
+  version "0.21.5"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@esbuild/darwin-x64/-/darwin-x64-0.21.5.tgz#c13838fa57372839abdddc91d71542ceea2e1e22"
+  integrity sha512-se/JjF8NlmKVG4kNIuyWMV/22ZaerB+qaSi5MdrXtd6R08kvs2qCN4C09miupktDitvh8jRFflwGFBQcxZRjbw==
+
+"@esbuild/freebsd-arm64@0.21.5":
+  version "0.21.5"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@esbuild/freebsd-arm64/-/freebsd-arm64-0.21.5.tgz#646b989aa20bf89fd071dd5dbfad69a3542e550e"
+  integrity sha512-5JcRxxRDUJLX8JXp/wcBCy3pENnCgBR9bN6JsY4OmhfUtIHe3ZW0mawA7+RDAcMLrMIZaf03NlQiX9DGyB8h4g==
+
+"@esbuild/freebsd-x64@0.21.5":
+  version "0.21.5"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@esbuild/freebsd-x64/-/freebsd-x64-0.21.5.tgz#aa615cfc80af954d3458906e38ca22c18cf5c261"
+  integrity sha512-J95kNBj1zkbMXtHVH29bBriQygMXqoVQOQYA+ISs0/2l3T9/kj42ow2mpqerRBxDJnmkUDCaQT/dfNXWX/ZZCQ==
+
+"@esbuild/linux-arm64@0.21.5":
+  version "0.21.5"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@esbuild/linux-arm64/-/linux-arm64-0.21.5.tgz#70ac6fa14f5cb7e1f7f887bcffb680ad09922b5b"
+  integrity sha512-ibKvmyYzKsBeX8d8I7MH/TMfWDXBF3db4qM6sy+7re0YXya+K1cem3on9XgdT2EQGMu4hQyZhan7TeQ8XkGp4Q==
+
+"@esbuild/linux-arm@0.21.5":
+  version "0.21.5"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@esbuild/linux-arm/-/linux-arm-0.21.5.tgz#fc6fd11a8aca56c1f6f3894f2bea0479f8f626b9"
+  integrity sha512-bPb5AHZtbeNGjCKVZ9UGqGwo8EUu4cLq68E95A53KlxAPRmUyYv2D6F0uUI65XisGOL1hBP5mTronbgo+0bFcA==
+
+"@esbuild/linux-ia32@0.21.5":
+  version "0.21.5"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@esbuild/linux-ia32/-/linux-ia32-0.21.5.tgz#3271f53b3f93e3d093d518d1649d6d68d346ede2"
+  integrity sha512-YvjXDqLRqPDl2dvRODYmmhz4rPeVKYvppfGYKSNGdyZkA01046pLWyRKKI3ax8fbJoK5QbxblURkwK/MWY18Tg==
+
+"@esbuild/linux-loong64@0.21.5":
+  version "0.21.5"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@esbuild/linux-loong64/-/linux-loong64-0.21.5.tgz#ed62e04238c57026aea831c5a130b73c0f9f26df"
+  integrity sha512-uHf1BmMG8qEvzdrzAqg2SIG/02+4/DHB6a9Kbya0XDvwDEKCoC8ZRWI5JJvNdUjtciBGFQ5PuBlpEOXQj+JQSg==
+
+"@esbuild/linux-mips64el@0.21.5":
+  version "0.21.5"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@esbuild/linux-mips64el/-/linux-mips64el-0.21.5.tgz#e79b8eb48bf3b106fadec1ac8240fb97b4e64cbe"
+  integrity sha512-IajOmO+KJK23bj52dFSNCMsz1QP1DqM6cwLUv3W1QwyxkyIWecfafnI555fvSGqEKwjMXVLokcV5ygHW5b3Jbg==
+
+"@esbuild/linux-ppc64@0.21.5":
+  version "0.21.5"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@esbuild/linux-ppc64/-/linux-ppc64-0.21.5.tgz#5f2203860a143b9919d383ef7573521fb154c3e4"
+  integrity sha512-1hHV/Z4OEfMwpLO8rp7CvlhBDnjsC3CttJXIhBi+5Aj5r+MBvy4egg7wCbe//hSsT+RvDAG7s81tAvpL2XAE4w==
+
+"@esbuild/linux-riscv64@0.21.5":
+  version "0.21.5"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@esbuild/linux-riscv64/-/linux-riscv64-0.21.5.tgz#07bcafd99322d5af62f618cb9e6a9b7f4bb825dc"
+  integrity sha512-2HdXDMd9GMgTGrPWnJzP2ALSokE/0O5HhTUvWIbD3YdjME8JwvSCnNGBnTThKGEB91OZhzrJ4qIIxk/SBmyDDA==
+
+"@esbuild/linux-s390x@0.21.5":
+  version "0.21.5"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@esbuild/linux-s390x/-/linux-s390x-0.21.5.tgz#b7ccf686751d6a3e44b8627ababc8be3ef62d8de"
+  integrity sha512-zus5sxzqBJD3eXxwvjN1yQkRepANgxE9lgOW2qLnmr8ikMTphkjgXu1HR01K4FJg8h1kEEDAqDcZQtbrRnB41A==
+
+"@esbuild/linux-x64@0.21.5":
+  version "0.21.5"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@esbuild/linux-x64/-/linux-x64-0.21.5.tgz#6d8f0c768e070e64309af8004bb94e68ab2bb3b0"
+  integrity sha512-1rYdTpyv03iycF1+BhzrzQJCdOuAOtaqHTWJZCWvijKD2N5Xu0TtVC8/+1faWqcP9iBCWOmjmhoH94dH82BxPQ==
+
+"@esbuild/netbsd-x64@0.21.5":
+  version "0.21.5"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@esbuild/netbsd-x64/-/netbsd-x64-0.21.5.tgz#bbe430f60d378ecb88decb219c602667387a6047"
+  integrity sha512-Woi2MXzXjMULccIwMnLciyZH4nCIMpWQAs049KEeMvOcNADVxo0UBIQPfSmxB3CWKedngg7sWZdLvLczpe0tLg==
+
+"@esbuild/openbsd-x64@0.21.5":
+  version "0.21.5"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@esbuild/openbsd-x64/-/openbsd-x64-0.21.5.tgz#99d1cf2937279560d2104821f5ccce220cb2af70"
+  integrity sha512-HLNNw99xsvx12lFBUwoT8EVCsSvRNDVxNpjZ7bPn947b8gJPzeHWyNVhFsaerc0n3TsbOINvRP2byTZ5LKezow==
+
+"@esbuild/sunos-x64@0.21.5":
+  version "0.21.5"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@esbuild/sunos-x64/-/sunos-x64-0.21.5.tgz#08741512c10d529566baba837b4fe052c8f3487b"
+  integrity sha512-6+gjmFpfy0BHU5Tpptkuh8+uw3mnrvgs+dSPQXQOv3ekbordwnzTVEb4qnIvQcYXq6gzkyTnoZ9dZG+D4garKg==
+
+"@esbuild/win32-arm64@0.21.5":
+  version "0.21.5"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@esbuild/win32-arm64/-/win32-arm64-0.21.5.tgz#675b7385398411240735016144ab2e99a60fc75d"
+  integrity sha512-Z0gOTd75VvXqyq7nsl93zwahcTROgqvuAcYDUr+vOv8uHhNSKROyU961kgtCD1e95IqPKSQKH7tBTslnS3tA8A==
+
+"@esbuild/win32-ia32@0.21.5":
+  version "0.21.5"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@esbuild/win32-ia32/-/win32-ia32-0.21.5.tgz#1bfc3ce98aa6ca9a0969e4d2af72144c59c1193b"
+  integrity sha512-SWXFF1CL2RVNMaVs+BBClwtfZSvDgtL//G/smwAc5oVK/UPu2Gu9tIaRgFmYFFKrmg3SyAjSrElf0TiJ1v8fYA==
+
 "@esbuild/win32-x64@0.21.5":
   version "0.21.5"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@esbuild/win32-x64/-/win32-x64-0.21.5.tgz"
@@ -67,7 +177,7 @@
     minimatch "^3.1.2"
     strip-json-comments "^3.1.1"
 
-"@eslint/js@^9.32.0", "@eslint/js@9.39.2":
+"@eslint/js@9.39.2", "@eslint/js@^9.32.0":
   version "9.39.2"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@eslint/js/-/js-9.39.2.tgz"
   integrity sha512-q1mjIoW1VX4IvSocvM/vbTiveKC4k9eLrajNEuSsmjymSDEbpGddtpfOoN7YGAqBK3NG+uqo8ia4PDTt8buCYA==
@@ -140,13 +250,6 @@
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@humanwhocodes/retry/-/retry-0.4.3.tgz"
   integrity sha512-bV0Tgo9K4hfPCek+aMAn81RppFKv2ySDQeMoSZuvTASywNTnVJCArCZE2FWqpvIatKu7VMRLWlR1EazvVhDyhQ==
 
-"@isaacs/fs-minipass@^4.0.0":
-  version "4.0.1"
-  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@isaacs/fs-minipass/-/fs-minipass-4.0.1.tgz"
-  integrity sha512-wgm9Ehl2jpeqP3zw/7mo3kRHFp5MEDhqAdwy1fTGkHAwnkGOVsgpvQhL8B5n1qlb01jV3n/bI0ZfZp5lWA1k4w==
-  dependencies:
-    minipass "^7.0.4"
-
 "@jridgewell/gen-mapping@^0.3.2":
   version "0.3.13"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@jridgewell/gen-mapping/-/gen-mapping-0.3.13.tgz"
@@ -181,7 +284,7 @@
     "@nodelib/fs.stat" "2.0.5"
     run-parallel "^1.1.9"
 
-"@nodelib/fs.stat@^2.0.2", "@nodelib/fs.stat@2.0.5":
+"@nodelib/fs.stat@2.0.5", "@nodelib/fs.stat@^2.0.2":
   version "2.0.5"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@nodelib/fs.stat/-/fs.stat-2.0.5.tgz"
   integrity sha512-RkhPPp2zrqDAQA/2jNhnztcPAlv64XdhIp7a7454A5ovI7Bukxgt7MX7udwAu3zg1DcpPU0rz3VV1SeaqvY4+A==
@@ -277,7 +380,7 @@
     "@radix-ui/react-use-previous" "1.1.1"
     "@radix-ui/react-use-size" "1.1.1"
 
-"@radix-ui/react-collapsible@^1.1.11", "@radix-ui/react-collapsible@1.1.12":
+"@radix-ui/react-collapsible@1.1.12", "@radix-ui/react-collapsible@^1.1.11":
   version "1.1.12"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@radix-ui/react-collapsible/-/react-collapsible-1.1.12.tgz"
   integrity sha512-Uu+mSh4agx2ib1uIGPP4/CKNULyajb3p92LsVXmH2EHVMTfZWpll88XJ0j4W0z3f8NK1eYl1+Mf/szHPmcHzyA==
@@ -301,7 +404,7 @@
     "@radix-ui/react-primitive" "2.1.3"
     "@radix-ui/react-slot" "1.2.3"
 
-"@radix-ui/react-compose-refs@^1.1.1", "@radix-ui/react-compose-refs@1.1.2":
+"@radix-ui/react-compose-refs@1.1.2", "@radix-ui/react-compose-refs@^1.1.1":
   version "1.1.2"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@radix-ui/react-compose-refs/-/react-compose-refs-1.1.2.tgz"
   integrity sha512-z4eqJvfiNnFMHIIvXP3CY57y2WJs5g2v3X0zm9mEJkrkNv4rDxu+sg9Jh8EkXyeqBkB7SOcboo9dMVqhyrACIg==
@@ -328,7 +431,7 @@
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@radix-ui/react-context/-/react-context-1.1.3.tgz"
   integrity sha512-ieIFACdMpYfMEjF0rEf5KLvfVyIkOz6PDGyNnP+u+4xQ6jny3VCgA4OgXOwNx2aUkxn8zx9fiVcM8CfFYv9Lxw==
 
-"@radix-ui/react-dialog@^1.1.1", "@radix-ui/react-dialog@^1.1.14", "@radix-ui/react-dialog@^1.1.6", "@radix-ui/react-dialog@1.1.15":
+"@radix-ui/react-dialog@1.1.15", "@radix-ui/react-dialog@^1.1.1", "@radix-ui/react-dialog@^1.1.14", "@radix-ui/react-dialog@^1.1.6":
   version "1.1.15"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@radix-ui/react-dialog/-/react-dialog-1.1.15.tgz"
   integrity sha512-TCglVRtzlffRNxRMEyR36DGBLJpeusFcgMVD9PZEzAKnUs1lKCgX5u9BmC2Yg+LL9MgZDugFFs1Vl+Jp4t/PGw==
@@ -406,7 +509,7 @@
     "@radix-ui/react-primitive" "2.1.3"
     "@radix-ui/react-use-controllable-state" "1.2.2"
 
-"@radix-ui/react-id@^1.1.0", "@radix-ui/react-id@1.1.1":
+"@radix-ui/react-id@1.1.1", "@radix-ui/react-id@^1.1.0":
   version "1.1.1"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@radix-ui/react-id/-/react-id-1.1.1.tgz"
   integrity sha512-kGkGegYIdQsOb4XjsfM97rXsiHaBwco+hFI66oO4s9LU+PLAC5oJ7khdOVFxkhsmlbpUqDAvXw11CluXP+jkHg==
@@ -533,13 +636,6 @@
     "@radix-ui/react-compose-refs" "1.1.2"
     "@radix-ui/react-use-layout-effect" "1.1.1"
 
-"@radix-ui/react-primitive@^2.0.2":
-  version "2.1.4"
-  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@radix-ui/react-primitive/-/react-primitive-2.1.4.tgz"
-  integrity sha512-9hQc4+GNVtJAIEPEqlYqW5RiYdrr8ea5XQ0ZOnD6fgru+83kqT15mq2OCcbe8KnjRZl5vF3ks69AKz3kh1jrhg==
-  dependencies:
-    "@radix-ui/react-slot" "1.2.4"
-
 "@radix-ui/react-primitive@2.1.3":
   version "2.1.3"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@radix-ui/react-primitive/-/react-primitive-2.1.3.tgz"
@@ -547,7 +643,7 @@
   dependencies:
     "@radix-ui/react-slot" "1.2.3"
 
-"@radix-ui/react-primitive@2.1.4":
+"@radix-ui/react-primitive@2.1.4", "@radix-ui/react-primitive@^2.0.2":
   version "2.1.4"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@radix-ui/react-primitive/-/react-primitive-2.1.4.tgz"
   integrity sha512-9hQc4+GNVtJAIEPEqlYqW5RiYdrr8ea5XQ0ZOnD6fgru+83kqT15mq2OCcbe8KnjRZl5vF3ks69AKz3kh1jrhg==
@@ -659,17 +755,17 @@
     "@radix-ui/react-use-previous" "1.1.1"
     "@radix-ui/react-use-size" "1.1.1"
 
-"@radix-ui/react-slot@^1.2.3", "@radix-ui/react-slot@1.2.4":
-  version "1.2.4"
-  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@radix-ui/react-slot/-/react-slot-1.2.4.tgz"
-  integrity sha512-Jl+bCv8HxKnlTLVrcDE8zTMJ09R9/ukw4qBs/oZClOfoQk/cOTbDn+NceXfV7j09YPVQUryJPHurafcSg6EVKA==
-  dependencies:
-    "@radix-ui/react-compose-refs" "1.1.2"
-
 "@radix-ui/react-slot@1.2.3":
   version "1.2.3"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@radix-ui/react-slot/-/react-slot-1.2.3.tgz"
   integrity sha512-aeNmHnBxbi2St0au6VBVC7JXFlhLlOnvIIlePNniyUNAClzmtAUEY8/pBiK3iHjufOlwA+c20/8jngo7xcrg8A==
+  dependencies:
+    "@radix-ui/react-compose-refs" "1.1.2"
+
+"@radix-ui/react-slot@1.2.4", "@radix-ui/react-slot@^1.2.3":
+  version "1.2.4"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@radix-ui/react-slot/-/react-slot-1.2.4.tgz"
+  integrity sha512-Jl+bCv8HxKnlTLVrcDE8zTMJ09R9/ukw4qBs/oZClOfoQk/cOTbDn+NceXfV7j09YPVQUryJPHurafcSg6EVKA==
   dependencies:
     "@radix-ui/react-compose-refs" "1.1.2"
 
@@ -731,7 +827,7 @@
     "@radix-ui/react-toggle" "1.1.10"
     "@radix-ui/react-use-controllable-state" "1.2.2"
 
-"@radix-ui/react-toggle@^1.1.9", "@radix-ui/react-toggle@1.1.10":
+"@radix-ui/react-toggle@1.1.10", "@radix-ui/react-toggle@^1.1.9":
   version "1.1.10"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@radix-ui/react-toggle/-/react-toggle-1.1.10.tgz"
   integrity sha512-lS1odchhFTeZv3xwHH31YPObmJn8gOg7Lq12inrr0+BH/l3Tsq32VfjqH1oh80ARM3mlkfMic15n0kg4sD1poQ==
@@ -838,6 +934,121 @@
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@rolldown/pluginutils/-/pluginutils-1.0.0-beta.27.tgz"
   integrity sha512-+d0F4MKMCbeVUJwG96uQ4SgAznZNSq93I3V+9NHA4OpvqG8mRCpGdKmK8l/dl02h2CCDHwW2FqilnTyDcAnqjA==
 
+"@rollup/rollup-android-arm-eabi@4.55.3":
+  version "4.55.3"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@rollup/rollup-android-arm-eabi/-/rollup-android-arm-eabi-4.55.3.tgz#87a6a7afdab9f2bded1a492030eb5559acd56c33"
+  integrity sha512-qyX8+93kK/7R5BEXPC2PjUt0+fS/VO2BVHjEHyIEWiYn88rcRBHmdLgoJjktBltgAf+NY7RfCGB1SoyKS/p9kg==
+
+"@rollup/rollup-android-arm64@4.55.3":
+  version "4.55.3"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@rollup/rollup-android-arm64/-/rollup-android-arm64-4.55.3.tgz#9f682da7d077ec40731cb262f90242cd7dbe3f67"
+  integrity sha512-6sHrL42bjt5dHQzJ12Q4vMKfN+kUnZ0atHHnv4V0Wd9JMTk7FDzSY35+7qbz3ypQYMBPANbpGK7JpnWNnhGt8g==
+
+"@rollup/rollup-darwin-arm64@4.55.3":
+  version "4.55.3"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@rollup/rollup-darwin-arm64/-/rollup-darwin-arm64-4.55.3.tgz#4bb3a056cd83fb071b82ba223d894925f7972ec1"
+  integrity sha512-1ht2SpGIjEl2igJ9AbNpPIKzb1B5goXOcmtD0RFxnwNuMxqkR6AUaaErZz+4o+FKmzxcSNBOLrzsICZVNYa1Rw==
+
+"@rollup/rollup-darwin-x64@4.55.3":
+  version "4.55.3"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@rollup/rollup-darwin-x64/-/rollup-darwin-x64-4.55.3.tgz#b399002e28210f79ca9547ae3ff57a1e460c50db"
+  integrity sha512-FYZ4iVunXxtT+CZqQoPVwPhH7549e/Gy7PIRRtq4t5f/vt54pX6eG9ebttRH6QSH7r/zxAFA4EZGlQ0h0FvXiA==
+
+"@rollup/rollup-freebsd-arm64@4.55.3":
+  version "4.55.3"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@rollup/rollup-freebsd-arm64/-/rollup-freebsd-arm64-4.55.3.tgz#96f93438d1c411fc0e976db18932aac999b098a0"
+  integrity sha512-M/mwDCJ4wLsIgyxv2Lj7Len+UMHd4zAXu4GQ2UaCdksStglWhP61U3uowkaYBQBhVoNpwx5Hputo8eSqM7K82Q==
+
+"@rollup/rollup-freebsd-x64@4.55.3":
+  version "4.55.3"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@rollup/rollup-freebsd-x64/-/rollup-freebsd-x64-4.55.3.tgz#aad876f5f6d9d81048109242e53b61697fa0cf4a"
+  integrity sha512-5jZT2c7jBCrMegKYTYTpni8mg8y3uY8gzeq2ndFOANwNuC/xJbVAoGKR9LhMDA0H3nIhvaqUoBEuJoICBudFrA==
+
+"@rollup/rollup-linux-arm-gnueabihf@4.55.3":
+  version "4.55.3"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@rollup/rollup-linux-arm-gnueabihf/-/rollup-linux-arm-gnueabihf-4.55.3.tgz#fe153dbc43532a7f35da142c9d6027bf14b54f24"
+  integrity sha512-YeGUhkN1oA+iSPzzhEjVPS29YbViOr8s4lSsFaZKLHswgqP911xx25fPOyE9+khmN6W4VeM0aevbDp4kkEoHiA==
+
+"@rollup/rollup-linux-arm-musleabihf@4.55.3":
+  version "4.55.3"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@rollup/rollup-linux-arm-musleabihf/-/rollup-linux-arm-musleabihf-4.55.3.tgz#ceeaf9db7e0544e86708e0cc19f631a8a6eb66ec"
+  integrity sha512-eo0iOIOvcAlWB3Z3eh8pVM8hZ0oVkK3AjEM9nSrkSug2l15qHzF3TOwT0747omI6+CJJvl7drwZepT+re6Fy/w==
+
+"@rollup/rollup-linux-arm64-gnu@4.55.3":
+  version "4.55.3"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@rollup/rollup-linux-arm64-gnu/-/rollup-linux-arm64-gnu-4.55.3.tgz#87567a81f7873746c43b1712360b86e1ebb9ff27"
+  integrity sha512-DJay3ep76bKUDImmn//W5SvpjRN5LmK/ntWyeJs/dcnwiiHESd3N4uteK9FDLf0S0W8E6Y0sVRXpOCoQclQqNg==
+
+"@rollup/rollup-linux-arm64-musl@4.55.3":
+  version "4.55.3"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@rollup/rollup-linux-arm64-musl/-/rollup-linux-arm64-musl-4.55.3.tgz#e6f8af6a8874f050708852f4b888a20f7fb1aad9"
+  integrity sha512-BKKWQkY2WgJ5MC/ayvIJTHjy0JUGb5efaHCUiG/39sSUvAYRBaO3+/EK0AZT1RF3pSj86O24GLLik9mAYu0IJg==
+
+"@rollup/rollup-linux-loong64-gnu@4.55.3":
+  version "4.55.3"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@rollup/rollup-linux-loong64-gnu/-/rollup-linux-loong64-gnu-4.55.3.tgz#69d8f0a5f2de9a14e6a6f653babe458b8e92c77e"
+  integrity sha512-Q9nVlWtKAG7ISW80OiZGxTr6rYtyDSkauHUtvkQI6TNOJjFvpj4gcH+KaJihqYInnAzEEUetPQubRwHef4exVg==
+
+"@rollup/rollup-linux-loong64-musl@4.55.3":
+  version "4.55.3"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@rollup/rollup-linux-loong64-musl/-/rollup-linux-loong64-musl-4.55.3.tgz#1636a3a3f20ee01fd82093455cc5962d47a46fe8"
+  integrity sha512-2H5LmhzrpC4fFRNwknzmmTvvyJPHwESoJgyReXeFoYYuIDfBhP29TEXOkCJE/KxHi27mj7wDUClNq78ue3QEBQ==
+
+"@rollup/rollup-linux-ppc64-gnu@4.55.3":
+  version "4.55.3"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@rollup/rollup-linux-ppc64-gnu/-/rollup-linux-ppc64-gnu-4.55.3.tgz#ae35795b51ea8c4a1615c02399906dd626b2ed5d"
+  integrity sha512-9S542V0ie9LCTznPYlvaeySwBeIEa7rDBgLHKZ5S9DBgcqdJYburabm8TqiqG6mrdTzfV5uttQRHcbKff9lWtA==
+
+"@rollup/rollup-linux-ppc64-musl@4.55.3":
+  version "4.55.3"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@rollup/rollup-linux-ppc64-musl/-/rollup-linux-ppc64-musl-4.55.3.tgz#1c66cecc79a6ba6b2f98303378a12ed015525dd4"
+  integrity sha512-ukxw+YH3XXpcezLgbJeasgxyTbdpnNAkrIlFGDl7t+pgCxZ89/6n1a+MxlY7CegU+nDgrgdqDelPRNQ/47zs0g==
+
+"@rollup/rollup-linux-riscv64-gnu@4.55.3":
+  version "4.55.3"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@rollup/rollup-linux-riscv64-gnu/-/rollup-linux-riscv64-gnu-4.55.3.tgz#ac6b0d9ff23ddcb4e27aefe149a87ec43a81ebc2"
+  integrity sha512-Iauw9UsTTvlF++FhghFJjqYxyXdggXsOqGpFBylaRopVpcbfyIIsNvkf9oGwfgIcf57z3m8+/oSYTo6HutBFNw==
+
+"@rollup/rollup-linux-riscv64-musl@4.55.3":
+  version "4.55.3"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@rollup/rollup-linux-riscv64-musl/-/rollup-linux-riscv64-musl-4.55.3.tgz#3f74ee61354db48040e0da9291dae00c7eb7bbae"
+  integrity sha512-3OqKAHSEQXKdq9mQ4eajqUgNIK27VZPW3I26EP8miIzuKzCJ3aW3oEn2pzF+4/Hj/Moc0YDsOtBgT5bZ56/vcA==
+
+"@rollup/rollup-linux-s390x-gnu@4.55.3":
+  version "4.55.3"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@rollup/rollup-linux-s390x-gnu/-/rollup-linux-s390x-gnu-4.55.3.tgz#b0645f9f7573522d157c84e2a3ac2849e07fcaf6"
+  integrity sha512-0CM8dSVzVIaqMcXIFej8zZrSFLnGrAE8qlNbbHfTw1EEPnFTg1U1ekI0JdzjPyzSfUsHWtodilQQG/RA55berA==
+
+"@rollup/rollup-linux-x64-gnu@4.55.3":
+  version "4.55.3"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@rollup/rollup-linux-x64-gnu/-/rollup-linux-x64-gnu-4.55.3.tgz#6a48ba9291425ddd26bbfa40f9367785e1dcb25d"
+  integrity sha512-+fgJE12FZMIgBaKIAGd45rxf+5ftcycANJRWk8Vz0NnMTM5rADPGuRFTYar+Mqs560xuART7XsX2lSACa1iOmQ==
+
+"@rollup/rollup-linux-x64-musl@4.55.3":
+  version "4.55.3"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@rollup/rollup-linux-x64-musl/-/rollup-linux-x64-musl-4.55.3.tgz#b42072070c91c0b01fbd4232edb5f6cb95211403"
+  integrity sha512-tMD7NnbAolWPzQlJQJjVFh/fNH3K/KnA7K8gv2dJWCwwnaK6DFCYST1QXYWfu5V0cDwarWC8Sf/cfMHniNq21A==
+
+"@rollup/rollup-openbsd-x64@4.55.3":
+  version "4.55.3"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@rollup/rollup-openbsd-x64/-/rollup-openbsd-x64-4.55.3.tgz#0e45317c4d92d9bfd23bf2989392fc04e29f7cd2"
+  integrity sha512-u5KsqxOxjEeIbn7bUK1MPM34jrnPwjeqgyin4/N6e/KzXKfpE9Mi0nCxcQjaM9lLmPcHmn/xx1yOjgTMtu1jWQ==
+
+"@rollup/rollup-openharmony-arm64@4.55.3":
+  version "4.55.3"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@rollup/rollup-openharmony-arm64/-/rollup-openharmony-arm64-4.55.3.tgz#197f8a69d84e7ad74e837d7f98e8119c6e8ba3ac"
+  integrity sha512-vo54aXwjpTtsAnb3ca7Yxs9t2INZg7QdXN/7yaoG7nPGbOBXYXQY41Km+S1Ov26vzOAzLcAjmMdjyEqS1JkVhw==
+
+"@rollup/rollup-win32-arm64-msvc@4.55.3":
+  version "4.55.3"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@rollup/rollup-win32-arm64-msvc/-/rollup-win32-arm64-msvc-4.55.3.tgz#3ebf0098f3116564fa6cd8a408b3a48b8dc9ac03"
+  integrity sha512-HI+PIVZ+m+9AgpnY3pt6rinUdRYrGHvmVdsNQ4odNqQ/eRF78DVpMR7mOq7nW06QxpczibwBmeQzB68wJ+4W4A==
+
+"@rollup/rollup-win32-ia32-msvc@4.55.3":
+  version "4.55.3"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@rollup/rollup-win32-ia32-msvc/-/rollup-win32-ia32-msvc-4.55.3.tgz#133b9ffc01f4471c5b1d9c00e5cf1cf426bf89e8"
+  integrity sha512-vRByotbdMo3Wdi+8oC2nVxtc3RkkFKrGaok+a62AT8lz/YBuQjaVYAS5Zcs3tPzW43Vsf9J0wehJbUY5xRSekA==
+
 "@rollup/rollup-win32-x64-gnu@4.55.3":
   version "4.55.3"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@rollup/rollup-win32-x64-gnu/-/rollup-win32-x64-gnu-4.55.3.tgz"
@@ -854,6 +1065,46 @@
   integrity sha512-9ywvsKLsxTwv7fvN5fXzP3UfRreqrX2waylTBDu0lkmeHXa8WtSQS9e0WV9FBduiazYqQbgfBQXBNPRPsRgWOQ==
   dependencies:
     tslib "2.8.1"
+
+"@supabase/cli-darwin-arm64@2.101.0":
+  version "2.101.0"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@supabase/cli-darwin-arm64/-/cli-darwin-arm64-2.101.0.tgz#fc20269e2fa06ed0e197d1a4d2dfc60efce6c9a2"
+  integrity sha512-SoWYzu2CIE+rADWsZH6H0YZYF8nV2YMelZLbjAqzahb5RRgFOTMWGhKCUj6g4KlNvocUnU19JObUJ7oCx/9aHg==
+
+"@supabase/cli-darwin-x64@2.101.0":
+  version "2.101.0"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@supabase/cli-darwin-x64/-/cli-darwin-x64-2.101.0.tgz#bd0f23d53f9fd50cabd31c79997b57288b9fdad3"
+  integrity sha512-rPES03BF9KYkirq3X1Yll+T+eORueRvC858Yp2+2aQMvB4qxi6k+WI+ilCQ7NGzOJ3G0jl/ZG/KsSjZIa4AJ6g==
+
+"@supabase/cli-linux-arm64-musl@2.101.0":
+  version "2.101.0"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@supabase/cli-linux-arm64-musl/-/cli-linux-arm64-musl-2.101.0.tgz#f88f1154fff00c1f2cc5a487bc748dc2a019ef09"
+  integrity sha512-B5JFFKKpJLLMwn8vWUB7j5euZPytiDOLo9WYXp0mshg45OaFKjRcDImSzBzx4k0W8MK2x75rFEURca90Ic60Ug==
+
+"@supabase/cli-linux-arm64@2.101.0":
+  version "2.101.0"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@supabase/cli-linux-arm64/-/cli-linux-arm64-2.101.0.tgz#d40ea4adbe792143baaa6b129d7f383f8cf8f4fe"
+  integrity sha512-E+hN1GRIFEi+U1Jf4Omw/gjwpSRTpJ5jai58tQana15AaXt3GCoG7z2YzWVnzD/mvAubTqA7SLHsV+A2lcdTGQ==
+
+"@supabase/cli-linux-x64-musl@2.101.0":
+  version "2.101.0"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@supabase/cli-linux-x64-musl/-/cli-linux-x64-musl-2.101.0.tgz#fea22dae1c06904b6c145dd811f767af1c2dba51"
+  integrity sha512-pr9Ar1/aVaQVqjNSfwRgXHWJznQTIaxblGO+hKIl9k55Ajahiq8GConCwx6DjX1Wa9VW//5Dji+O0pkmFSfcHw==
+
+"@supabase/cli-linux-x64@2.101.0":
+  version "2.101.0"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@supabase/cli-linux-x64/-/cli-linux-x64-2.101.0.tgz#8a5cd3ccebc18ebd8d583d4f3710a831300f1df6"
+  integrity sha512-7iU9uA+8pbmW5uz+yGxU0fM83a+8SH/gtKmSSRZrOu9vIGcugg9gLbN9GlWkG5P7I7wEjnoVKb7Jzea6onSeQA==
+
+"@supabase/cli-windows-arm64@2.101.0":
+  version "2.101.0"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@supabase/cli-windows-arm64/-/cli-windows-arm64-2.101.0.tgz#6384fc73c25e5e8a877a398ec6940f6a5697ca06"
+  integrity sha512-mSnFDhTIAe9cr1iifv+DTQzpY/0WphywED2YT3yMGeu94jjxrXrreQkywxEaeSXTnc4ys1umtnWOB1CaBlYKag==
+
+"@supabase/cli-windows-x64@2.101.0":
+  version "2.101.0"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@supabase/cli-windows-x64/-/cli-windows-x64-2.101.0.tgz#27ec85c3cb87404db09c0b1fb933d0485e8e665f"
+  integrity sha512-xzZpybVWq62VF102abZr1EP3BbA2bYecwYm3G2dJk+6ua7nAIodu1fiGHAvBSR0BLGQmesNb6KCneawNL3XBsQ==
 
 "@supabase/functions-js@2.91.0":
   version "2.91.0"
@@ -897,6 +1148,51 @@
     "@supabase/postgrest-js" "2.91.0"
     "@supabase/realtime-js" "2.91.0"
     "@supabase/storage-js" "2.91.0"
+
+"@swc/core-darwin-arm64@1.15.10":
+  version "1.15.10"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@swc/core-darwin-arm64/-/core-darwin-arm64-1.15.10.tgz#fb76ac44fa1d30696299d45c84f35b62f9ea2bac"
+  integrity sha512-U72pGqmJYbjrLhMndIemZ7u9Q9owcJczGxwtfJlz/WwMaGYAV/g4nkGiUVk/+QSX8sFCAjanovcU1IUsP2YulA==
+
+"@swc/core-darwin-x64@1.15.10":
+  version "1.15.10"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@swc/core-darwin-x64/-/core-darwin-x64-1.15.10.tgz#b00fdc59022152cc4998e8478a9250ca8382a7d7"
+  integrity sha512-NZpDXtwHH083L40xdyj1sY31MIwLgOxKfZEAGCI8xHXdHa+GWvEiVdGiu4qhkJctoHFzAEc7ZX3GN5phuJcPuQ==
+
+"@swc/core-linux-arm-gnueabihf@1.15.10":
+  version "1.15.10"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@swc/core-linux-arm-gnueabihf/-/core-linux-arm-gnueabihf-1.15.10.tgz#d39405a2ddcf6604db684fcbbcc9c807810b5d41"
+  integrity sha512-ioieF5iuRziUF1HkH1gg1r93e055dAdeBAPGAk40VjqpL5/igPJ/WxFHGvc6WMLhUubSJI4S0AiZAAhEAp1jDg==
+
+"@swc/core-linux-arm64-gnu@1.15.10":
+  version "1.15.10"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@swc/core-linux-arm64-gnu/-/core-linux-arm64-gnu-1.15.10.tgz#5f59553f7d1d3e0af02eb9544b6f88c05a7bb372"
+  integrity sha512-tD6BClOrxSsNus9cJL7Gxdv7z7Y2hlyvZd9l0NQz+YXzmTWqnfzLpg16ovEI7gknH2AgDBB5ywOsqu8hUgSeEQ==
+
+"@swc/core-linux-arm64-musl@1.15.10":
+  version "1.15.10"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.15.10.tgz#eb833e49df2a706d2ccf8e4474c111e7a1b784a5"
+  integrity sha512-4uAHO3nbfbrTcmO/9YcVweTQdx5fN3l7ewwl5AEK4yoC4wXmoBTEPHAVdKNe4r9+xrTgd4BgyPsy0409OjjlMw==
+
+"@swc/core-linux-x64-gnu@1.15.10":
+  version "1.15.10"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@swc/core-linux-x64-gnu/-/core-linux-x64-gnu-1.15.10.tgz#5d0b6f36e9d9d49fc0a2170fec2b6de2c9c0e76a"
+  integrity sha512-W0h9ONNw1pVIA0cN7wtboOSTl4Jk3tHq+w2cMPQudu9/+3xoCxpFb9ZdehwCAk29IsvdWzGzY6P7dDVTyFwoqg==
+
+"@swc/core-linux-x64-musl@1.15.10":
+  version "1.15.10"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@swc/core-linux-x64-musl/-/core-linux-x64-musl-1.15.10.tgz#0788cf24330f8efec0379cce594c727f3bc0a7c8"
+  integrity sha512-XQNZlLZB62S8nAbw7pqoqwy91Ldy2RpaMRqdRN3T+tAg6Xg6FywXRKCsLh6IQOadr4p1+lGnqM/Wn35z5a/0Vw==
+
+"@swc/core-win32-arm64-msvc@1.15.10":
+  version "1.15.10"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@swc/core-win32-arm64-msvc/-/core-win32-arm64-msvc-1.15.10.tgz#1555dc561606268ff84805568cd9a60b5de42543"
+  integrity sha512-qnAGrRv5Nj/DATxAmCnJQRXXQqnJwR0trxLndhoHoxGci9MuguNIjWahS0gw8YZFjgTinbTxOwzatkoySihnmw==
+
+"@swc/core-win32-ia32-msvc@1.15.10":
+  version "1.15.10"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@swc/core-win32-ia32-msvc/-/core-win32-ia32-msvc-1.15.10.tgz#e51f79e4e257f9b1a8c90437b20fc5a9b5b13119"
+  integrity sha512-i4X/q8QSvzVlaRtv1xfnfl+hVKpCfiJ+9th484rh937fiEZKxZGf51C+uO0lfKDP1FfnT6C1yBYwHy7FLBVXFw==
 
 "@swc/core-win32-x64-msvc@1.15.10":
   version "1.15.10"
@@ -1004,7 +1300,7 @@
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@types/d3-timer/-/d3-timer-3.0.2.tgz"
   integrity sha512-Ps3T8E8dZDam6fUyNiMkekK3XUsaUEik+idO9/YjPtfj2qruF8tFBXS7XhtE4iIXBLxhmLjP3SXpLhVf21I9Lw==
 
-"@types/estree@^1.0.6", "@types/estree@1.0.8":
+"@types/estree@1.0.8", "@types/estree@^1.0.6":
   version "1.0.8"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@types/estree/-/estree-1.0.8.tgz"
   integrity sha512-dWHzHa2WqEXI/O1E9OjrocMTKJl2mSrEolh1Iomrv6U+JuNwaHXsXx9bLu5gG7BUWFIN0skIQJQ/L1rIex4X6w==
@@ -1014,7 +1310,7 @@
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@types/json-schema/-/json-schema-7.0.15.tgz"
   integrity sha512-5+fP8P8MFNC+AyZCDxrB2pkZFPGzqQWUzpSeuuVLvm8VMcorNYavBqoFcxK8bQz4Qsbn4oUEEem4wDLfcysGHA==
 
-"@types/node@*", "@types/node@^18.0.0 || >=20.0.0", "@types/node@^22.16.5":
+"@types/node@*", "@types/node@^22.16.5":
   version "22.19.7"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@types/node/-/node-22.19.7.tgz"
   integrity sha512-MciR4AKGHWl7xwxkBa6xUGxQJ4VBOmPTF7sL+iGzuahOFaO0jHCsuEfS80pan1ef4gWId1oWOweIhrDEYLuaOw==
@@ -1040,7 +1336,7 @@
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@types/prop-types/-/prop-types-15.7.15.tgz"
   integrity sha512-F6bEyamV9jKGAFBEmlQnesRPGOQqS2+Uwi0Em15xenOxHaf2hv6L8YCVn3rPdPJOiJfPiCnLIRyvwVaqMY3MIw==
 
-"@types/react-dom@*", "@types/react-dom@^18.3.7":
+"@types/react-dom@^18.3.7":
   version "18.3.7"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@types/react-dom/-/react-dom-18.3.7.tgz"
   integrity sha512-MEe3UeoENYVFXzoXEWsvcpg6ZvlrFNlOQ7EOsvhI3CfAXwzPfO8Qwuxd40nepsYKqyyVQnTdEfv68q91yLcKrQ==
@@ -1052,7 +1348,7 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react@*", "@types/react@^18.0.0", "@types/react@^18.3.23", "@types/react@>=16.8":
+"@types/react@*", "@types/react@^18.3.23":
   version "18.3.27"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@types/react/-/react-18.3.27.tgz"
   integrity sha512-cisd7gxkzjBKU2GgdYrTdtQx1SORymWyaAFhaxQPK9bYO9ot3Y5OikQRvY0VYQtvwjeQnizCINJAenh/V7MK2w==
@@ -1081,7 +1377,7 @@
     natural-compare "^1.4.0"
     ts-api-utils "^2.4.0"
 
-"@typescript-eslint/parser@^8.53.1", "@typescript-eslint/parser@8.53.1":
+"@typescript-eslint/parser@8.53.1":
   version "8.53.1"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@typescript-eslint/parser/-/parser-8.53.1.tgz"
   integrity sha512-nm3cvFN9SqZGXjmw5bZ6cGmvJSyJPn0wU9gHAZZHDnZl2wF9PhHv78Xf06E0MaNk4zLVHL8hb2/c32XvyJOLQg==
@@ -1109,7 +1405,7 @@
     "@typescript-eslint/types" "8.53.1"
     "@typescript-eslint/visitor-keys" "8.53.1"
 
-"@typescript-eslint/tsconfig-utils@^8.53.1", "@typescript-eslint/tsconfig-utils@8.53.1":
+"@typescript-eslint/tsconfig-utils@8.53.1", "@typescript-eslint/tsconfig-utils@^8.53.1":
   version "8.53.1"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@typescript-eslint/tsconfig-utils/-/tsconfig-utils-8.53.1.tgz"
   integrity sha512-qfvLXS6F6b1y43pnf0pPbXJ+YoXIC7HKg0UGZ27uMIemKMKA6XH2DTxsEDdpdN29D+vHV07x/pnlPNVLhdhWiA==
@@ -1125,7 +1421,7 @@
     debug "^4.4.3"
     ts-api-utils "^2.4.0"
 
-"@typescript-eslint/types@^8.53.1", "@typescript-eslint/types@8.53.1":
+"@typescript-eslint/types@8.53.1", "@typescript-eslint/types@^8.53.1":
   version "8.53.1"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/@typescript-eslint/types/-/types-8.53.1.tgz"
   integrity sha512-jr/swrr2aRmUAUjW5/zQHbMaui//vQlsZcJKijZf3M26bnmLj8LyZUpj8/Rd6uzaek06OWsqdofN/Thenm5O8A==
@@ -1176,15 +1472,10 @@ acorn-jsx@^5.3.2:
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/acorn-jsx/-/acorn-jsx-5.3.2.tgz"
   integrity sha512-rq9s+JNhf0IChjtDXxllJ7g41oZk5SlXtp0LHwyA5cejwn7vKmKp4pPri6YEePv2PU65sAsegbXtIinmDFDXgQ==
 
-"acorn@^6.0.0 || ^7.0.0 || ^8.0.0", acorn@^8.15.0:
+acorn@^8.15.0:
   version "8.15.0"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/acorn/-/acorn-8.15.0.tgz"
   integrity sha512-NZyJarBfL7nWwIq+FDL6Zp/yHEhePMNnnJ0y3qfieCrmNvYct8uvtiV41UvlSe6apAfk0fY1FbWx+NwfmpvtTg==
-
-agent-base@^7.1.2:
-  version "7.1.4"
-  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/agent-base/-/agent-base-7.1.4.tgz"
-  integrity sha512-MnA+YT8fwfJPgBx3m60MNqakm30XOkyIoH1y6huTQvC0PwZG7ki8NacLBcrPbNoo8vEZy7Jpuk7+jMO+CUovTQ==
 
 ajv@^6.12.4:
   version "6.12.6"
@@ -1254,17 +1545,6 @@ baseline-browser-mapping@^2.9.0, baseline-browser-mapping@^2.9.11:
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/baseline-browser-mapping/-/baseline-browser-mapping-2.9.16.tgz"
   integrity sha512-KeUZdBuxngy825i8xvzaK1Ncnkx0tBmb3k8DkEuqjKRkmtvNTjey2ZsNeh8Dw4lfKvbCOu9oeNx2TKm2vHqcRw==
 
-bin-links@^6.0.0:
-  version "6.0.0"
-  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/bin-links/-/bin-links-6.0.0.tgz"
-  integrity sha512-X4CiKlcV2GjnCMwnKAfbVWpHa++65th9TuzAEYtZoATiOE2DQKhSp4CJlyLoTqdhBKlXjpXjCTYPNNFS33Fi6w==
-  dependencies:
-    cmd-shim "^8.0.0"
-    npm-normalize-package-bin "^5.0.0"
-    proc-log "^6.0.0"
-    read-cmd-shim "^6.0.0"
-    write-file-atomic "^7.0.0"
-
 binary-extensions@^2.0.0:
   version "2.3.0"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/binary-extensions/-/binary-extensions-2.3.0.tgz"
@@ -1292,7 +1572,7 @@ braces@^3.0.3, braces@~3.0.2:
   dependencies:
     fill-range "^7.1.1"
 
-browserslist@^4.28.1, "browserslist@>= 4.21.0":
+browserslist@^4.28.1:
   version "4.28.1"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/browserslist/-/browserslist-4.28.1.tgz"
   integrity sha512-ZC5Bd0LgJXgwGqUknZY/vkUQ04r8NXnJZ3yYi4vDmSiZmC/pdSN0NbNRPxZpbtO4uAfDUAFffO8IZoM3Gj8IkA==
@@ -1312,6 +1592,11 @@ camelcase-css@^2.0.1:
   version "2.0.1"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/camelcase-css/-/camelcase-css-2.0.1.tgz"
   integrity sha512-QOSvevhslijgYwRx6Rv7zKdMF8lbRmx+uQGx2+vDc+KI/eBnsy9kit5aj23AgGu3pa4t9AgwbnXWqS+iOY+2aA==
+
+caniuse-lite@^1.0.30001759, caniuse-lite@^1.0.30001760:
+  version "1.0.30001793"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/caniuse-lite/-/caniuse-lite-1.0.30001793.tgz#238887ddf5fcfc8c36d872394d0a78a517312a72"
+  integrity sha512-iwSsYWaCOoh26cV8NwNRViHlrfUvYsHDfRVcbtmw0Kg6PJIZZXwMkj1442FYLBGkeUf1juAsU3DTfxW579mrPA==
 
 caniuse-lite@^1.0.30001761:
   version "1.0.30001765"
@@ -1341,11 +1626,6 @@ chokidar@^3.6.0:
   optionalDependencies:
     fsevents "~2.3.2"
 
-chownr@^3.0.0:
-  version "3.0.0"
-  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/chownr/-/chownr-3.0.0.tgz"
-  integrity sha512-+IxzY9BZOQd/XuYPRmrvEVjF/nqj5kgT4kEq7VofrDoM1MxoRjEWkrCC3EtLi59TVawxTAn+orJwFQcrqEN1+g==
-
 class-variance-authority@^0.7.1:
   version "0.7.1"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/class-variance-authority/-/class-variance-authority-0.7.1.tgz"
@@ -1357,11 +1637,6 @@ clsx@^2.0.0, clsx@^2.1.1:
   version "2.1.1"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/clsx/-/clsx-2.1.1.tgz"
   integrity sha512-eYm0QWBtUrBWZWG0d386OGAw16Z995PiOVo2B7bjWSbHedGl5e0ZWaq65kOGgUSNesEIDkB9ISbTg/JK9dhCZA==
-
-cmd-shim@^8.0.0:
-  version "8.0.0"
-  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/cmd-shim/-/cmd-shim-8.0.0.tgz"
-  integrity sha512-Jk/BK6NCapZ58BKUxlSI+ouKRbjH1NLZCgJkYoab+vEHUY3f6OzpNBN9u7HFSv9J6TRDGs4PLOHezoKGaFRSCA==
 
 cmdk@^1.1.1:
   version "1.1.1"
@@ -1414,7 +1689,7 @@ csstype@^3.0.2, csstype@^3.2.2:
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/csstype/-/csstype-3.2.3.tgz"
   integrity sha512-z1HGKcYy2xA8AGQfwrn0PAy+PB7X/GSj3UVJW9qKyn43xWa+gl5nXmU4qqLMRzWVLFC8KusUX8T/0kCiOYpAIQ==
 
-d3-array@^3.1.6, "d3-array@2 - 3", "d3-array@2.10.0 - 3":
+"d3-array@2 - 3", "d3-array@2.10.0 - 3", d3-array@^3.1.6:
   version "3.2.4"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/d3-array/-/d3-array-3.2.4.tgz"
   integrity sha512-tdQAmyA18i4J7wprpYq8ClcxZy3SC31QMeByyCFyRt7BVHdREQZ5lpzoe5mFEYZUWe+oq8HBvk9JjpibyEV4Jg==
@@ -1436,7 +1711,7 @@ d3-ease@^3.0.1:
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/d3-format/-/d3-format-3.1.2.tgz"
   integrity sha512-AJDdYOdnyRDV5b6ArilzCPPwc1ejkHcoyFarqlPqT7zRYjhavcT3uSrqcMvsgh2CgoPbK3RCwyHaVyxYcP2Arg==
 
-d3-interpolate@^3.0.1, "d3-interpolate@1.2.0 - 3":
+"d3-interpolate@1.2.0 - 3", d3-interpolate@^3.0.1:
   version "3.0.1"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/d3-interpolate/-/d3-interpolate-3.0.1.tgz"
   integrity sha512-3bYs1rOD33uo8aqJfKP3JWPAibgw8Zm2+L9vBKEHJ2Rg+viTR7o5Mmv5mZcieN+FRYaAOWX5SJATX6k1PWz72g==
@@ -1473,7 +1748,7 @@ d3-shape@^3.1.0:
   dependencies:
     d3-time "1 - 3"
 
-d3-time@^3.0.0, "d3-time@1 - 3", "d3-time@2.1.1 - 3":
+"d3-time@1 - 3", "d3-time@2.1.1 - 3", d3-time@^3.0.0:
   version "3.1.0"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/d3-time/-/d3-time-3.1.0.tgz"
   integrity sha512-VqKjzBLejbSMT4IgbmVgDjpkYrNWUYJnbCGo874u7MMKIWsILRX+OpX/gTk8MqjpT1A/c6HY2dCA77ZN0lkQ2Q==
@@ -1485,17 +1760,12 @@ d3-timer@^3.0.1:
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/d3-timer/-/d3-timer-3.0.1.tgz"
   integrity sha512-ndfJ/JxxMd3nw31uyKoY2naivF+r29V+Lc0svZxe1JvvIRmi8hUsrMvdOwgS1o6uBHmiz91geQ0ylPP0aj1VUA==
 
-data-uri-to-buffer@^4.0.0:
-  version "4.0.1"
-  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/data-uri-to-buffer/-/data-uri-to-buffer-4.0.1.tgz"
-  integrity sha512-0R9ikRb668HB7QDxT1vkpuUBtqc53YyAwMwGeUFKRojY/NWKvdZ+9UYtRfGmhqNbRkTSVpMbmyhXipFFv2cb/A==
-
-"date-fns@^2.28.0 || ^3.0.0", date-fns@^3.6.0:
+date-fns@^3.6.0:
   version "3.6.0"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/date-fns/-/date-fns-3.6.0.tgz"
   integrity sha512-fRHTG8g/Gif+kSh50gaGEdToemgfj74aRX3swtiouboip5JDLAyDE9F11nHMIcvOaXeOC6D7SpNhi7uFyB7Uww==
 
-debug@^4.3.1, debug@^4.3.2, debug@^4.4.3, debug@4:
+debug@^4.3.1, debug@^4.3.2, debug@^4.4.3:
   version "4.4.3"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/debug/-/debug-4.4.3.tgz"
   integrity sha512-RGwwWnwQvkVfavKVt22FGLw+xYSdzARwm0ru6DhTVA3umU5hZc28V3kO4stgYryrTlLpuvgI9GiijltAjNbcqA==
@@ -1630,7 +1900,7 @@ eslint-visitor-keys@^4.2.1:
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/eslint-visitor-keys/-/eslint-visitor-keys-4.2.1.tgz"
   integrity sha512-Uhdk5sfqcee/9H/rCOJikYz67o0a2Tw2hGRPOG2Y1R2dg7brRe1uG0yaNQDHu+TO/uQPF/5eCapvYSmHUjt7JQ==
 
-"eslint@^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0-0 || ^9.0.0", "eslint@^6.0.0 || ^7.0.0 || >=8.0.0", "eslint@^8.57.0 || ^9.0.0", eslint@^9.32.0, eslint@>=8.40:
+eslint@^9.32.0:
   version "9.39.2"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/eslint/-/eslint-9.39.2.tgz"
   integrity sha512-LEyamqS7W5HB3ujJyvi0HQK/dtVINZvd5mAAp9eT5S/ujByGjiZLCzPcHVzuXbpJDJF/cxwHlfceVUDZ2lnSTw==
@@ -1751,14 +2021,6 @@ fdir@^6.5.0:
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/fdir/-/fdir-6.5.0.tgz"
   integrity sha512-tIbYtZbucOs0BRGqPJkshJUYdL+SDH7dVM8gjy+ERp3WAUjLEFJE+02kanyHtwjWOnwrKYBiwAmM0p4kLJAnXg==
 
-fetch-blob@^3.1.2, fetch-blob@^3.1.4:
-  version "3.2.0"
-  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/fetch-blob/-/fetch-blob-3.2.0.tgz"
-  integrity sha512-7yAQpD2UMJzLi1Dqv7qFYnPbaPx7ZfFK6PiIxQ4PfkGPyNyl2Ugx+a/umUonmKqjhM4DnfbMvdX6otXq83soQQ==
-  dependencies:
-    node-domexception "^1.0.0"
-    web-streams-polyfill "^3.0.3"
-
 file-entry-cache@^8.0.0:
   version "8.0.0"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/file-entry-cache/-/file-entry-cache-8.0.0.tgz"
@@ -1794,17 +2056,20 @@ flatted@^3.2.9:
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/flatted/-/flatted-3.3.3.tgz"
   integrity sha512-GX+ysw4PBCz0PzosHDepZGANEuFCMLrnRTiEy9McGjmkCQYwRq4A/X786G/fjM/+OjsWSU1ZrY5qyARZmO/uwg==
 
-formdata-polyfill@^4.0.10:
-  version "4.0.10"
-  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/formdata-polyfill/-/formdata-polyfill-4.0.10.tgz"
-  integrity sha512-buewHzMvYL29jdeQTVILecSaZKnt/RJWjoZCF5OW60Z67/GmSLBkOFM7qh1PI3zFNtJbaZL5eQu1vLfazOwj4g==
-  dependencies:
-    fetch-blob "^3.1.2"
-
 fraction.js@^5.3.4:
   version "5.3.4"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/fraction.js/-/fraction.js-5.3.4.tgz"
   integrity sha512-1X1NTtiJphryn/uLQz3whtY6jK3fTqoE3ohKs0tT+Ujr1W59oopxmoEh7Lu5p6vBaPbgoM0bzveAW4Qi5RyWDQ==
+
+fsevents@2.3.2:
+  version "2.3.2"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/fsevents/-/fsevents-2.3.2.tgz#8a526f78b8fdf4623b709e0b975c52c24c02fd1a"
+  integrity sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA==
+
+fsevents@~2.3.2, fsevents@~2.3.3:
+  version "2.3.3"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/fsevents/-/fsevents-2.3.3.tgz#cac6407785d03675a2a5e1a5305c697b347d90d6"
+  integrity sha512-5xoDfX+fL7faATnagmWPpbFtwh/R77WmMMqqHGS65C3vvB0YHrgF+B1YmZ3441tMj5n63k0212XNoJwzlhffQw==
 
 function-bind@^1.1.2:
   version "1.1.2"
@@ -1851,14 +2116,6 @@ hasown@^2.0.2:
   integrity sha512-0hJU9SCPvmMzIBdZFqNPXWa6dqh7WdH0cII9y+CyS8rG3nL48Bclra9HmKhVVUHyPWNH5Y7xDwAB7bfgSjkUMQ==
   dependencies:
     function-bind "^1.1.2"
-
-https-proxy-agent@^7.0.2:
-  version "7.0.6"
-  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/https-proxy-agent/-/https-proxy-agent-7.0.6.tgz"
-  integrity sha512-vK9P5/iUfdl95AI+JVyUuIcVtd4ofvtrOr3HNtM2yxC9bnMbEdp3x01OhQNnjb8IJYi38VlTE3mBXwcfvywuSw==
-  dependencies:
-    agent-base "^7.1.2"
-    debug "4"
 
 iceberg-js@^0.8.1:
   version "0.8.1"
@@ -1941,7 +2198,7 @@ isexe@^2.0.0:
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/isexe/-/isexe-2.0.0.tgz"
   integrity sha512-RHxMLp9lnKHGHRng9QFhRCMbYAcVpn69smSGcq3f36xjgVVWThj4qqLbTLlq7Ssj8B+fIQ1EuCEGI2lKsyQeIw==
 
-jiti@*, jiti@^1.21.7, jiti@>=1.21.0:
+jiti@^1.21.7:
   version "1.21.7"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/jiti/-/jiti-1.21.7.tgz"
   integrity sha512-/imKNG4EbWNrVjoNC/1H5/9GFy+tqjGBHCaSsN+P2RnPqjsLmv6UD3Ej+Kj8nBWaRAwyk7kK5ZUc+OEatnTR3A==
@@ -2059,18 +2316,6 @@ minimatch@^9.0.5:
   dependencies:
     brace-expansion "^2.0.1"
 
-minipass@^7.0.4, minipass@^7.1.2:
-  version "7.1.2"
-  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/minipass/-/minipass-7.1.2.tgz"
-  integrity sha512-qOOzS1cBTWYF4BH8fVePDBOO9iptMnGUEZwNc/cMWnTV2nVLZ7VoNWEPHkYczZA0pdoA7dl6e7FL659nX9S2aw==
-
-minizlib@^3.1.0:
-  version "3.1.0"
-  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/minizlib/-/minizlib-3.1.0.tgz"
-  integrity sha512-KZxYo1BUkWD2TVFLr0MQoM8vUUigWD3LlD83a/75BqC+4qE0Hb1Vo5v1FgcfaNXvfXzr+5EhQ6ing/CaBijTlw==
-  dependencies:
-    minipass "^7.1.2"
-
 ms@^2.1.3:
   version "2.1.3"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/ms/-/ms-2.1.3.tgz"
@@ -2100,20 +2345,6 @@ next-themes@^0.3.0:
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/next-themes/-/next-themes-0.3.0.tgz"
   integrity sha512-/QHIrsYpd6Kfk7xakK4svpDI5mmXP0gfvCoJdGpZQ2TOrQZmsW0QxjaiLn8wbIKjtm4BTSqLoix4lxYYOnLJ/w==
 
-node-domexception@^1.0.0:
-  version "1.0.0"
-  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/node-domexception/-/node-domexception-1.0.0.tgz"
-  integrity sha512-/jKZoMpw0F8GRwl4/eLROPA3cfcXtLApP0QzLmUT/HuPCZWyB7IY9ZrMeKw2O/nFIqPQB3PVM9aYm0F312AXDQ==
-
-node-fetch@^3.3.2:
-  version "3.3.2"
-  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/node-fetch/-/node-fetch-3.3.2.tgz"
-  integrity sha512-dRB78srN/l6gqWulah9SrxeYnxeddIG30+GOqK/9OlLVyLg3HPnr6SqOWTWOXKRwC2eGYCkZ59NNuSgvSrpgOA==
-  dependencies:
-    data-uri-to-buffer "^4.0.0"
-    fetch-blob "^3.1.4"
-    formdata-polyfill "^4.0.10"
-
 node-releases@^2.0.27:
   version "2.0.27"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/node-releases/-/node-releases-2.0.27.tgz"
@@ -2123,11 +2354,6 @@ normalize-path@^3.0.0, normalize-path@~3.0.0:
   version "3.0.0"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/normalize-path/-/normalize-path-3.0.0.tgz"
   integrity sha512-6eZs5Ls3WtCisHWp9S2GUy8dqkpGi4BVSz3GaqiE6ezub0512ESztXUwUB6C6IKbQkY2Pnb/mD4WYojCRwcwLA==
-
-npm-normalize-package-bin@^5.0.0:
-  version "5.0.0"
-  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/npm-normalize-package-bin/-/npm-normalize-package-bin-5.0.0.tgz"
-  integrity sha512-CJi3OS4JLsNMmr2u07OJlhcrPxCeOeP/4xq67aWNai6TNWWbTrlNDgl8NcFKVlcBKp18GPj+EzbNIgrBfZhsag==
 
 object-assign@^4.0.1, object-assign@^4.1.1:
   version "4.1.1"
@@ -2212,7 +2438,7 @@ pg-protocol@*, pg-protocol@^1.13.0:
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/pg-protocol/-/pg-protocol-1.13.0.tgz"
   integrity sha512-zzdvXfS6v89r6v7OcFCHfHlyG/wvry1ALxZo4LqgUoy7W9xhBDMaqOuMiF3qEV45VqsN6rdlcehHrfDtlCPc8w==
 
-pg-types@^2.2.0, pg-types@2.2.0:
+pg-types@2.2.0, pg-types@^2.2.0:
   version "2.2.0"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/pg-types/-/pg-types-2.2.0.tgz"
   integrity sha512-qTAAlrEsl8s4OiEQY69wDvcMIdQN6wdz5ojQiOy6YRMuynxenON0O5oCpJI6lshc6scgAY8qvJ2On/p+CXY0GA==
@@ -2223,7 +2449,7 @@ pg-types@^2.2.0, pg-types@2.2.0:
     postgres-date "~1.0.4"
     postgres-interval "^1.1.0"
 
-pg@^8.20.0, pg@>=8.0:
+pg@^8.20.0:
   version "8.20.0"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/pg/-/pg-8.20.0.tgz"
   integrity sha512-ldhMxz2r8fl/6QkXnBD3CR9/xg694oT6DZQ2s6c/RI28OjtSOpxnPrUCGOBJ46RCUxcWdx3p6kw/xnDHjKvaRA==
@@ -2253,7 +2479,7 @@ picomatch@^2.0.4, picomatch@^2.2.1, picomatch@^2.3.1:
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/picomatch/-/picomatch-2.3.1.tgz"
   integrity sha512-JU3teHTNjmE2VCGFzuY8EXzCDVwEqB2a8fsIvwaStHhAWJEeVd1o1QD80CU6+ZdEXXSLbSsuLwJjkCBWqRQUVA==
 
-"picomatch@^3 || ^4", picomatch@^4.0.3:
+picomatch@^4.0.3:
   version "4.0.3"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/picomatch/-/picomatch-4.0.3.tgz"
   integrity sha512-5gTmgEY/sqK6gFXLIsQNH19lWb4ebPDLA4SdLP7dsWkIXHWlG66oPuVvXSGFPppYZz8ZDZq0dYYrbHfBCVUb1Q==
@@ -2312,18 +2538,18 @@ postcss-nested@^6.2.0:
   dependencies:
     postcss-selector-parser "^6.1.1"
 
-postcss-selector-parser@^6.1.1, postcss-selector-parser@^6.1.2:
-  version "6.1.2"
-  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/postcss-selector-parser/-/postcss-selector-parser-6.1.2.tgz"
-  integrity sha512-Q8qQfPiZ+THO/3ZrOrO0cJJKfpYCagtMUkXbnEfmgUjwXg6z/WBeOyS9APBBPCTSiDV+s4SwQGu8yFsiMRIudg==
-  dependencies:
-    cssesc "^3.0.0"
-    util-deprecate "^1.0.2"
-
 postcss-selector-parser@6.0.10:
   version "6.0.10"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/postcss-selector-parser/-/postcss-selector-parser-6.0.10.tgz"
   integrity sha512-IQ7TZdoaqbT+LCpShg46jnZVlhWD2w6iQYAcYXfHARZ7X1t/UGhhceQDs5X0cGqKvYlHNOuv7Oa1xmb0oQuA3w==
+  dependencies:
+    cssesc "^3.0.0"
+    util-deprecate "^1.0.2"
+
+postcss-selector-parser@^6.1.1, postcss-selector-parser@^6.1.2:
+  version "6.1.2"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/postcss-selector-parser/-/postcss-selector-parser-6.1.2.tgz"
+  integrity sha512-Q8qQfPiZ+THO/3ZrOrO0cJJKfpYCagtMUkXbnEfmgUjwXg6z/WBeOyS9APBBPCTSiDV+s4SwQGu8yFsiMRIudg==
   dependencies:
     cssesc "^3.0.0"
     util-deprecate "^1.0.2"
@@ -2333,7 +2559,7 @@ postcss-value-parser@^4.0.0, postcss-value-parser@^4.2.0:
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/postcss-value-parser/-/postcss-value-parser-4.2.0.tgz"
   integrity sha512-1NNCs6uurfkVbeXG4S8JFT9t19m45ICnif8zWLd5oPSZ50QnwMfK+H3jv408d4jw/7Bttv5axS5IiHoLaVNHeQ==
 
-postcss@^8.0.0, postcss@^8.1.0, postcss@^8.2.14, postcss@^8.4.21, postcss@^8.4.43, postcss@^8.4.47, postcss@^8.5.6, postcss@>=8.0.9:
+postcss@^8.4.43, postcss@^8.4.47, postcss@^8.5.6:
   version "8.5.6"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/postcss/-/postcss-8.5.6.tgz"
   integrity sha512-3Ybi1tAuwAP9s0r1UQ2J4n5Y0G05bJkpUIO0/bI9MhwmD70S5aTWbXGBwxHrelT+XM1k6dM0pk+SwNkpTRN7Pg==
@@ -2369,11 +2595,6 @@ prelude-ls@^1.2.1:
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/prelude-ls/-/prelude-ls-1.2.1.tgz"
   integrity sha512-vkcDPrRZo1QZLbn5RLGPpg/WmIQ65qoWWhcGKf/b5eplkkarX0m9z8ppCat4mlOqUsWpyNuYgO3VRyrYHSzX5g==
 
-proc-log@^6.0.0:
-  version "6.1.0"
-  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/proc-log/-/proc-log-6.1.0.tgz"
-  integrity sha512-iG+GYldRf2BQ0UDUAd6JQ/RwzaQy6mXmsk/IzlYyal4A4SNFw54MeH4/tLkF4I5WoWG9SQwuqWzS99jaFQHBuQ==
-
 prop-types@^15.6.2, prop-types@^15.8.1:
   version "15.8.1"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/prop-types/-/prop-types-15.8.1.tgz"
@@ -2398,7 +2619,7 @@ react-day-picker@^8.10.1:
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/react-day-picker/-/react-day-picker-8.10.1.tgz"
   integrity sha512-TMx7fNbhLk15eqcMt+7Z7S2KF7mfTId/XJDjKE8f+IUcFn0l08/kI4FiYTL/0yuOLmEcbR4Fwe3GJf/NiiMnPA==
 
-"react-dom@^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0", "react-dom@^16.14.0 || ^17.0.0 || ^18.0.0 || ^19.0.0 || ^19.0.0-rc", "react-dom@^16.8 || ^17 || ^18", "react-dom@^16.8 || ^17.0 || ^18.0", "react-dom@^16.8 || ^17.0 || ^18.0 || ^19.0 || ^19.0.0-rc", "react-dom@^16.8 || ^17.0 || ^18.0 || ^19.0.0 || ^19.0.0-rc", "react-dom@^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0", "react-dom@^18 || ^19 || ^19.0.0-rc", "react-dom@^18.0.0 || ^19.0.0 || ^19.0.0-rc", react-dom@^18.3.1, react-dom@>=0.14.0, react-dom@>=16.6.0, react-dom@>=16.8, react-dom@>=16.8.0:
+react-dom@^18.3.1:
   version "18.3.1"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/react-dom/-/react-dom-18.3.1.tgz"
   integrity sha512-5m4nQKp+rZRb09LNH59GM4BxTh9251/ylbKIbpe7TpGxfJ+9kv6BLkLBXIjjspbgbnIBNqlI23tRnTWT0snUIw==
@@ -2406,7 +2627,7 @@ react-day-picker@^8.10.1:
     loose-envify "^1.1.0"
     scheduler "^0.23.2"
 
-react-hook-form@^7.0.0, react-hook-form@^7.61.1:
+react-hook-form@^7.61.1:
   version "7.71.1"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/react-hook-form/-/react-hook-form-7.71.1.tgz"
   integrity sha512-9SUJKCGKo8HUSsCO+y0CtqkqI5nNuaDqTxyqPsZPqIwudpj4rCrAz/jZV+jn57bx5gtZKOh3neQu94DXMc+w5w==
@@ -2495,7 +2716,7 @@ react-transition-group@^4.4.5:
     loose-envify "^1.4.0"
     prop-types "^15.6.2"
 
-"react@^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0", "react@^16.14.0 || ^17.0.0 || ^18.0.0 || ^19.0.0 || ^19.0.0-rc", "react@^16.5.1 || ^17.0.0 || ^18.0.0 || ^19.0.0-rc", "react@^16.8 || ^17 || ^18", "react@^16.8 || ^17.0 || ^18.0", "react@^16.8 || ^17.0 || ^18.0 || ^19.0 || ^19.0.0-rc", "react@^16.8 || ^17.0 || ^18.0 || ^19.0.0 || ^19.0.0-rc", "react@^16.8.0 || ^17 || ^18 || ^19", "react@^16.8.0 || ^17.0.0 || ^18.0.0", "react@^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0", "react@^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0 || ^19.0.0-rc", "react@^16.8.0 || ^17.0.1 || ^18.0.0 || ^19.0.0 || ^19.0.0-rc", "react@^18 || ^19", "react@^18 || ^19 || ^19.0.0-rc", "react@^18.0.0 || ^19.0.0 || ^19.0.0-rc", react@^18.3.1, react@>=0.14.0, react@>=16.6.0, react@>=16.8, react@>=16.8.0:
+react@^18.3.1:
   version "18.3.1"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/react/-/react-18.3.1.tgz"
   integrity sha512-wS+hAgJShR0KhEvPJArfuPVN1+Hz1t0Y6n5jLrGQbkb4urgPE/0Rve+1kMB1v/oWgHgm4WIcV+i7F2pTVj+2iQ==
@@ -2508,11 +2729,6 @@ read-cache@^1.0.0:
   integrity sha512-Owdv/Ft7IjOgm/i0xvNDZ1LrRANRfew4b2prF3OWMQLxLfu3bS8FVhCsrSCMK4lR56Y9ya+AThoTpDCTxCmpRA==
   dependencies:
     pify "^2.3.0"
-
-read-cmd-shim@^6.0.0:
-  version "6.0.0"
-  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/read-cmd-shim/-/read-cmd-shim-6.0.0.tgz"
-  integrity sha512-1zM5HuOfagXCBWMN83fuFI/x+T/UhZ7k+KIzhrHXcQoeX5+7gmaDYjELQHmmzIodumBHeByBJT4QYS7ufAgs7A==
 
 readdirp@~3.6.0:
   version "3.6.0"
@@ -2626,11 +2842,6 @@ shebang-regex@^3.0.0:
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/shebang-regex/-/shebang-regex-3.0.0.tgz"
   integrity sha512-7++dFhtcx3353uBaq8DDR4NuxBetBzC7ZQOhmTQInHEd6bSrXdiEyzCvG07Z44UYdLShWUyXt5M/yhz8ekcb1A==
 
-signal-exit@^4.0.1:
-  version "4.1.0"
-  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/signal-exit/-/signal-exit-4.1.0.tgz"
-  integrity sha512-bzyZ1e88w9O1iNJbKnOlvYTrWPDl46O1bG0D3XInv+9tkPrxrN8jUUTiFlDkkmKWgn1M6CfIA13SuGqOa9Korw==
-
 sonner@^1.7.4:
   version "1.7.4"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/sonner/-/sonner-1.7.4.tgz"
@@ -2664,15 +2875,19 @@ sucrase@^3.35.0:
     tinyglobby "^0.2.11"
     ts-interface-checker "^0.1.9"
 
-supabase@^2.72.8:
-  version "2.72.8"
-  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/supabase/-/supabase-2.72.8.tgz"
-  integrity sha512-3Wymv/QjmndLB9ACQA31VvJ7+KXmDqj7s8g7y+ldAcCaHBMbj+I7x0j/UBGkNbtSh0BG7kRicGA3Xc3jQlccNQ==
-  dependencies:
-    bin-links "^6.0.0"
-    https-proxy-agent "^7.0.2"
-    node-fetch "^3.3.2"
-    tar "7.5.3"
+supabase@^2.101.0:
+  version "2.101.0"
+  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/supabase/-/supabase-2.101.0.tgz#5e9f5ca9c4e5a49515ac47f31cce5eb00e409e20"
+  integrity sha512-9wqlvXGeI+VjOMUKOGEpcZzTJGLia6IOv8LWN3W2u8F6Xiv4ZqAuTuXCp3MWfkhV5x9KQaBtN5d6IiLEMWzkJA==
+  optionalDependencies:
+    "@supabase/cli-darwin-arm64" "2.101.0"
+    "@supabase/cli-darwin-x64" "2.101.0"
+    "@supabase/cli-linux-arm64" "2.101.0"
+    "@supabase/cli-linux-arm64-musl" "2.101.0"
+    "@supabase/cli-linux-x64" "2.101.0"
+    "@supabase/cli-linux-x64-musl" "2.101.0"
+    "@supabase/cli-windows-arm64" "2.101.0"
+    "@supabase/cli-windows-x64" "2.101.0"
 
 supports-color@^7.1.0:
   version "7.2.0"
@@ -2696,7 +2911,7 @@ tailwindcss-animate@^1.0.7:
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/tailwindcss-animate/-/tailwindcss-animate-1.0.7.tgz"
   integrity sha512-bl6mpH3T7I3UFxuvDEXLxy/VuFxBk5bbzplh7tXI68mwMokNYd1t9qPBHlnyTwfa4JGC4zP516I1hYYtQ/vspA==
 
-tailwindcss@^3.4.17, "tailwindcss@>=3.0.0 || insiders", "tailwindcss@>=3.0.0 || insiders || >=4.0.0-alpha.20 || >=4.0.0-beta.1":
+tailwindcss@^3.4.17:
   version "3.4.19"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/tailwindcss/-/tailwindcss-3.4.19.tgz"
   integrity sha512-3ofp+LL8E+pK/JuPLPggVAIaEuhvIz4qNcf3nA1Xn2o/7fb7s/TYpHhwGDv1ZU3PkBluUVaF8PyCHcm48cKLWQ==
@@ -2723,17 +2938,6 @@ tailwindcss@^3.4.17, "tailwindcss@>=3.0.0 || insiders", "tailwindcss@>=3.0.0 || 
     postcss-selector-parser "^6.1.2"
     resolve "^1.22.8"
     sucrase "^3.35.0"
-
-tar@7.5.3:
-  version "7.5.3"
-  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/tar/-/tar-7.5.3.tgz"
-  integrity sha512-ENg5JUHUm2rDD7IvKNFGzyElLXNjachNLp6RaGf4+JOgxXHkqA+gq81ZAMCUmtMtqBsoU62lcp6S27g1LCYGGQ==
-  dependencies:
-    "@isaacs/fs-minipass" "^4.0.0"
-    chownr "^3.0.0"
-    minipass "^7.1.2"
-    minizlib "^3.1.0"
-    yallist "^5.0.0"
 
 thenify-all@^1.0.0:
   version "1.6.0"
@@ -2779,7 +2983,7 @@ ts-interface-checker@^0.1.9:
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/ts-interface-checker/-/ts-interface-checker-0.1.13.tgz"
   integrity sha512-Y/arvbn+rrz3JCKl9C4kVNfTfSm2/mEp5FSz5EsZSANGPSlQrpRI5M4PKF+mJnE52jOO90PnPSc3Ur3bTQw0gA==
 
-tslib@^2.0.0, tslib@^2.1.0, tslib@2.8.1:
+tslib@2.8.1, tslib@^2.0.0, tslib@^2.1.0:
   version "2.8.1"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/tslib/-/tslib-2.8.1.tgz"
   integrity sha512-oJFu94HQb+KVduSUQL7wnpmqnfmLsOA/nAh6b6EH0wCEoK0/mPeXU6c3wKDV83MkOuHPRHtSXKKU99IBazS/2w==
@@ -2801,7 +3005,7 @@ typescript-eslint@^8.38.0:
     "@typescript-eslint/typescript-estree" "8.53.1"
     "@typescript-eslint/utils" "8.53.1"
 
-typescript@^5.8.3, typescript@>=4.8.4, "typescript@>=4.8.4 <6.0.0":
+typescript@^5.8.3:
   version "5.9.3"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/typescript/-/typescript-5.9.3.tgz"
   integrity sha512-jl1vZzPDinLr9eUt3J/t7V6FgNEw9QjvBPdysz9KfQDD41fQrC2Y4vKQdiaUpFT4bXlb1RHhLpp8wtm6M5TgSw==
@@ -2810,11 +3014,6 @@ undici-types@~6.21.0:
   version "6.21.0"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/undici-types/-/undici-types-6.21.0.tgz"
   integrity sha512-iwDZqg0QAGrg9Rav5H4n0M64c3mkR59cJ6wQp+7C4nI0gsmExaedaYLNO44eT4AtBBwjbTiGPMlt2Md0T9H9JQ==
-
-undici-types@~7.16.0:
-  version "7.16.0"
-  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/undici-types/-/undici-types-7.16.0.tgz"
-  integrity sha512-Zz+aZWSj8LE6zoxD+xrjh4VfkIG8Ya6LvYkZqtUQGJPZjYl53ypCaUwWqo7eI0x66KBGeRo+mlBEkMSeSZ38Nw==
 
 update-browserslist-db@^1.2.0:
   version "1.2.3"
@@ -2883,7 +3082,7 @@ victory-vendor@^36.6.8:
     d3-time "^3.0.0"
     d3-timer "^3.0.1"
 
-"vite@^4 || ^5 || ^6 || ^7", vite@^5.4.19:
+vite@^5.4.19:
   version "5.4.21"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/vite/-/vite-5.4.21.tgz"
   integrity sha512-o5a9xKjbtuhY6Bi5S3+HvbRERmouabWbyUcpXXUA1u+GNUKoROi9byOJ8M0nHbHYHkYICiMlqxkg1KkYmm25Sw==
@@ -2901,11 +3100,6 @@ warning@^4.0.2:
   dependencies:
     loose-envify "^1.0.0"
 
-web-streams-polyfill@^3.0.3:
-  version "3.3.3"
-  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/web-streams-polyfill/-/web-streams-polyfill-3.3.3.tgz"
-  integrity sha512-d2JWLCivmZYTSIoge9MsgFCZrt571BikcWGYkjC1khllbTeDlGqZ2D8vD8E/lJa8WGWbb7Plm8/XJYV7IJHZZw==
-
 which@^2.0.1:
   version "2.0.2"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/which/-/which-2.0.2.tgz"
@@ -2918,14 +3112,6 @@ word-wrap@^1.2.5:
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/word-wrap/-/word-wrap-1.2.5.tgz"
   integrity sha512-BN22B5eaMMI9UMtjrGd5g5eCYPpCPDUy0FJXbYsaT5zYxjFOckS53SQDE3pWkVoWpHXVb3BrYcEN4Twa55B5cA==
 
-write-file-atomic@^7.0.0:
-  version "7.0.0"
-  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/write-file-atomic/-/write-file-atomic-7.0.0.tgz"
-  integrity sha512-YnlPC6JqnZl6aO4uRc+dx5PHguiR9S6WeoLtpxNT9wIG+BDya7ZNE1q7KOjVgaA73hKhKLpVPgJ5QA9THQ5BRg==
-  dependencies:
-    imurmurhash "^0.1.4"
-    signal-exit "^4.0.1"
-
 ws@^8.18.2:
   version "8.19.0"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/ws/-/ws-8.19.0.tgz"
@@ -2935,11 +3121,6 @@ xtend@^4.0.0:
   version "4.0.2"
   resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/xtend/-/xtend-4.0.2.tgz"
   integrity sha512-LKYU1iAXJXUgAXn9URjiu+MWhyUXHsvfp7mcuYm9dSUKK0/CjtrUwFAxD82/mCWbtLsGjFIad0wIsod4zrTAEQ==
-
-yallist@^5.0.0:
-  version "5.0.0"
-  resolved "https://artifactory.softplan.com.br:443/artifactory/api/npm/npm/yallist/-/yallist-5.0.0.tgz"
-  integrity sha512-YgvUTfwqyc7UXVMrB+SImsVYSmTS8X/tSrtdNZMImM+n7+QTriRXyXim0mBrTXNeqzVF0KWGgHPeiyViFFrNDw==
 
 yocto-queue@^0.1.0:
   version "0.1.0"
